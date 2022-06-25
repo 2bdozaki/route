@@ -1,0 +1,17 @@
+
+.nav-bar{
+    background-color: #f8f6f6;
+}
+
+.Homesection{
+    width: 60px;
+    z-index: 999;
+    height: 100vh;
+}
+.Homesection i {
+    font-size: 25px;
+}
+
+.form-control {
+    border-bottom: 1px solid rgba(255,255,255,.7) !important;
+}
